@@ -1,5 +1,5 @@
 ---
-title: Foodsaving Worldwide
+title: Plantsharing
 menu: Home
 onpage_menu: false
 body_classes: "modular header-image fullwidth"

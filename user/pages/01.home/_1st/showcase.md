@@ -7,5 +7,5 @@ buttons:
       primary: true
 ---
 
-# Foodsaving Worldwide
-## A distributed, global grassroots movement against food waste.
+# Plantsharing.de
+## We've got a good thing growing!
